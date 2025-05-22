@@ -5,7 +5,6 @@ A visually appealing and responsive Netflix landing page clone built using **HTM
 ## 🌐 Live Demo
 
 👉 [View Live Project](https://sripadh26.github.io/Netflix-LandingPage)
-
 ## 🚀 Features
 
 - ✅ Hero Section with Background Image & CTA
